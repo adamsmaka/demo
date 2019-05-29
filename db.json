@@ -41,20 +41,17 @@
     { 
       "id": 1, 
       "userid": 1, 
-      "title": "Post 1", 
-      "text": "Pierwsza grupa tekstów jest tworzona zwykle pod potrzeby niezależnych portali, które działają na zasadzie serwisów informacyjnych. Takim portalom zależy przede wszystkim na przekazaniu wartościowej wiedzy czytelnikom. Autorzy tekstów nie zwracają uwagi na słowa kluczowe i tworzą teksty według własnego uznania." 
+      "title": "Post 1"
     },
     { 
       "id": 2, 
       "userid": 1, 
-      "title": "Post 2", 
-      "text": "Pierwsza grupa tekstów jest tworzona zwykle pod potrzeby niezależnych portali, które działają na zasadzie serwisów informacyjnych. Takim portalom zależy przede wszystkim na przekazaniu wartościowej wiedzy czytelnikom. Autorzy tekstów nie zwracają uwagi na słowa kluczowe i tworzą teksty według własnego uznania." 
+      "title": "Post 2",
     },
     { 
       "id": 3, 
       "userid": 1, 
-      "title": "Post 3", 
-      "text": "Pierwsza grupa tekstów jest tworzona zwykle pod potrzeby niezależnych portali, które działają na zasadzie serwisów informacyjnych. Takim portalom zależy przede wszystkim na przekazaniu wartościowej wiedzy czytelnikom. Autorzy tekstów nie zwracają uwagi na słowa kluczowe i tworzą teksty według własnego uznania." 
+      "title": "Post 3"
     },
   ]
 }
