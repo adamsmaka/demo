@@ -4,25 +4,25 @@
      "name": "Maria Smith", 
      "email": "m.smith@gmail.com", 
      "phoneNumber": "+48 000 000 000",
-     "picture": "https://randomuser.me/api/portraits/women/1.jpg"
+     "picture": "https://randomuser.me/api/portraits/women/5.jpg"
     },
     { "id": 2, 
      "name": "Katarzyna Nowak", 
      "email": "k.nowak@gmail.com", 
      "phoneNumber": "+00 000 000 000",
-     "picture": "https://randomuser.me/api/portraits/women/2.jpg"
+     "picture": "https://randomuser.me/api/portraits/women/18.jpg"
     },
     { "id": 3, 
      "name": "Maria Nowak", 
      "email": "m.nowak@gmail.com", 
      "phoneNumber": "+00 000 000 000",
-     "picture": "https://randomuser.me/api/portraits/women/3.jpg"
+     "picture": "https://randomuser.me/api/portraits/women/84.jpg"
     },
     { "id": 4, 
      "name": "Ewa Nowak", 
      "email": "e.nowak@gmail.com", 
      "phoneNumber": "+00 000 000 000",
-     "picture": "https://randomuser.me/api/portraits/women/4.jpg"
+     "picture": "https://randomuser.me/api/portraits/women/17.jpg"
     }
   ],
   "posts": [
