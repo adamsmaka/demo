@@ -48,6 +48,7 @@
       "userid": 1, 
       "title": "Tytuł", 
       "picture": "https://picsum.photos/200/300",
-      "text": "Pierwsza grupa tekstów jest tworzona zwykle pod potrzeby niezależnych portali, które działają na zasadzie serwisów informacyjnych. Takim portalom zależy przede wszystkim na przekazaniu wartościowej wiedzy czytelnikom. Autorzy tekstów nie zwracają uwagi na słowa kluczowe i tworzą teksty według własnego uznania." },
+      "text": "Pierwsza grupa tekstów..." 
+    }
   ]
 }
