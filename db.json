@@ -46,7 +46,20 @@
       "id": 1, 
       "title": "Post 1", 
       "userid": 1, 
-      "title": "Tytuł", 
+      "picture": "https://picsum.photos/81/74",
+      "text": "Pierwsza grupa tekstów jest tworzona zwykle pod potrzeby niezależnych portali, które działają na zasadzie serwisów informacyjnych. Takim portalom zależy przede wszystkim na przekazaniu wartościowej wiedzy czytelnikom. Autorzy tekstów nie zwracają uwagi na słowa kluczowe i tworzą teksty według własnego uznania." 
+    },
+    { 
+      "id": 2, 
+      "title": "Post 2", 
+      "userid": 1, 
+      "picture": "https://picsum.photos/81/74",
+      "text": "Pierwsza grupa tekstów jest tworzona zwykle pod potrzeby niezależnych portali, które działają na zasadzie serwisów informacyjnych. Takim portalom zależy przede wszystkim na przekazaniu wartościowej wiedzy czytelnikom. Autorzy tekstów nie zwracają uwagi na słowa kluczowe i tworzą teksty według własnego uznania." 
+    },
+    { 
+      "id": 3, 
+      "title": "Post 3", 
+      "userid": 2, 
       "picture": "https://picsum.photos/81/74",
       "text": "Pierwsza grupa tekstów jest tworzona zwykle pod potrzeby niezależnych portali, które działają na zasadzie serwisów informacyjnych. Takim portalom zależy przede wszystkim na przekazaniu wartościowej wiedzy czytelnikom. Autorzy tekstów nie zwracają uwagi na słowa kluczowe i tworzą teksty według własnego uznania." 
     }
