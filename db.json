@@ -6,9 +6,9 @@
       "email": "m.smith@gmail.com", 
       "phoneNumber": "+48 000 000 000",
       "picture": "https://randomuser.me/api/portraits/women/74.jpg", 
-      "address": "xxx",
-      "company": "yyy", 
-      "www": "zzz"
+      "address": "ul. Świeradowska 77, 50-559 Wrocław",
+      "company": "Applover Software House , ul. Świeradowska 77, 50-559 Wrocław", 
+      "www": "Applover.pl"
     },
     { 
       "id": 2, 
@@ -16,9 +16,9 @@
       "email": "k.nowak@gmail.com", 
       "phoneNumber": "+00 000 000 000",
       "picture": "https://randomuser.me/api/portraits/women/18.jpg", 
-      "address": "xxx",
-      "company": "yyy", 
-      "www": "zzz"
+      "address": "ul. Świeradowska 77, 50-559 Wrocław",
+      "company": "Applover Software House , ul. Świeradowska 77, 50-559 Wrocław", 
+      "www": "Applover.pl"
     },
     { 
       "id": 3, 
@@ -26,9 +26,9 @@
      "email": "m.nowak@gmail.com", 
      "phoneNumber": "+00 000 000 000",
      "picture": "https://randomuser.me/api/portraits/women/84.jpg", 
-     "address": "xxx",
-     "company": "yyy", 
-     "www": "zzz"
+     "address": "ul. Świeradowska 77, 50-559 Wrocław",
+     "company": "Applover Software House , ul. Świeradowska 77, 50-559 Wrocław", 
+     "www": "Applover.pl"
     },
     { 
       "id": 4, 
@@ -36,9 +36,9 @@
      "email": "e.nowak@gmail.com", 
      "phoneNumber": "+00 000 000 000",
      "picture": "https://randomuser.me/api/portraits/women/17.jpg", 
-     "address": "xxx",
-     "company": "yyy", 
-     "www": "zzz"
+     "address": "ul. Świeradowska 77, 50-559 Wrocław",
+     "company": "Applover Software House , ul. Świeradowska 77, 50-559 Wrocław", 
+     "www": "Applover.pl"
     }
   ],
   "posts": [
