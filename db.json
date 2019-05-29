@@ -1,13 +1,33 @@
 {
   "users": [
-    { "id": 1, "name": "Maria Smith", "email": "m.smith@gmail.com", "phoneNumber": "+48 000 000 000" },
-    { "id": 2, "name": "Katarzyna Nowak", "email": "k.nowak@gmail.com", "phoneNumber": "+00 000 000 000" },
-    { "id": 3, "name": "Maria Nowak", "email": "m.nowak@gmail.com", "phoneNumber": "+00 000 000 000" },
-    { "id": 4, "name": "Ewa Nowak", "email": "e.nowak@gmail.com", "phoneNumber": "+00 000 000 000" }
+    { "id": 1, 
+     "name": "Maria Smith", 
+     "email": "m.smith@gmail.com", 
+     "phoneNumber": "+48 000 000 000",
+     "picture": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    { "id": 2, 
+     "name": "Katarzyna Nowak", 
+     "email": "k.nowak@gmail.com", 
+     "phoneNumber": "+00 000 000 000",
+     "picture": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    { "id": 3, 
+     "name": "Maria Nowak", 
+     "email": "m.nowak@gmail.com", 
+     "phoneNumber": "+00 000 000 000",
+     "picture": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    { "id": 4, 
+     "name": "Ewa Nowak", 
+     "email": "e.nowak@gmail.com", 
+     "phoneNumber": "+00 000 000 000",
+     "picture": "https://randomuser.me/api/portraits/women/4.jpg"
+    }
   ],
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1", "userid": 1 },
+    { "id": 2, "title": "Post 2", "userid": 1 },
+    { "id": 3, "title": "Post 3", "userid": 1 }
   ]
 }
