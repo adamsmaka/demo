@@ -1,24 +1,27 @@
 {
   "users": [
-    { "id": 1, 
-     "name": "Maria Smith", 
-     "email": "m.smith@gmail.com", 
-     "phoneNumber": "+48 000 000 000",
-     "picture": "https://randomuser.me/api/portraits/women/5.jpg", 
-     "address": "xxx",
-     "company": "yyy", 
-     "www": "zzz"
+    { 
+      "id": 1, 
+      "name": "Maria Smith", 
+      "email": "m.smith@gmail.com", 
+      "phoneNumber": "+48 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/women/5.jpg", 
+      "address": "xxx",
+      "company": "yyy", 
+      "www": "zzz"
     },
-    { "id": 2, 
-     "name": "Katarzyna Nowak", 
-     "email": "k.nowak@gmail.com", 
-     "phoneNumber": "+00 000 000 000",
-     "picture": "https://randomuser.me/api/portraits/women/18.jpg", 
-     "address": "xxx",
-     "company": "yyy", 
-     "www": "zzz"
+    { 
+      "id": 2, 
+      "name": "Katarzyna Nowak", 
+      "email": "k.nowak@gmail.com", 
+      "phoneNumber": "+00 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/women/18.jpg", 
+      "address": "xxx",
+      "company": "yyy", 
+      "www": "zzz"
     },
-    { "id": 3, 
+    { 
+      "id": 3, 
      "name": "Maria Nowak", 
      "email": "m.nowak@gmail.com", 
      "phoneNumber": "+00 000 000 000",
@@ -27,7 +30,8 @@
      "company": "yyy", 
      "www": "zzz"
     },
-    { "id": 4, 
+    { 
+      "id": 4, 
      "name": "Ewa Nowak", 
      "email": "e.nowak@gmail.com", 
      "phoneNumber": "+00 000 000 000",
@@ -38,6 +42,12 @@
     }
   ],
   "posts": [
-    { "id": 1, "title": "Post 1", "userid": 1, "title": "Tytuł", "text": "Pierwsza grupa tekstów jest tworzona zwykle pod potrzeby niezależnych portali, które działają na zasadzie serwisów informacyjnych. Takim portalom zależy przede wszystkim na przekazaniu wartościowej wiedzy czytelnikom. Autorzy tekstów nie zwracają uwagi na słowa kluczowe i tworzą teksty według własnego uznania." },
+    { 
+      "id": 1, 
+      "title": "Post 1", 
+      "userid": 1, 
+      "title": "Tytuł", 
+      "picture": "https://picsum.photos/200/300",
+      "text": "Pierwsza grupa tekstów jest tworzona zwykle pod potrzeby niezależnych portali, które działają na zasadzie serwisów informacyjnych. Takim portalom zależy przede wszystkim na przekazaniu wartościowej wiedzy czytelnikom. Autorzy tekstów nie zwracają uwagi na słowa kluczowe i tworzą teksty według własnego uznania." },
   ]
 }
